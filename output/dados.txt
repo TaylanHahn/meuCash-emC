@@ -1,0 +1,5 @@
+2000,00 1250,00 120,00 98,00 772,00
+3
+2000,00 Fixa Entrada
+1250,00 Fixa Saida
+120,00 Eventual Entrada
